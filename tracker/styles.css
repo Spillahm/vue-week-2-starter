@@ -1,4 +1,14 @@
 #records {
     max-height: 250px;
     overflow: scroll;
+    background-color: cyan;
 }
+
+#date{
+    background-color: orangered;
+    font-style: italic;
+}
+
+
+
+

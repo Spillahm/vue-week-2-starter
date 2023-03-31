@@ -10,11 +10,17 @@ th, tr {
 .present {
     color: gray;
     font-style: italic;
+    background-color: cyan;
 }
 
 .absent {
     color: black;
     font-weight: bold;
+    background-color: green;
+}
+
+[v-cloak] {
+    display: none;
 }
 
 
